@@ -1,6 +1,6 @@
 # MINISTRY-OF-WATER-RESOURCE
 <html>
-<title>Ministry of coal</title>
+<title>Ministry of water resource</title>
 <body>
 <table>
 <tr>
@@ -10,7 +10,7 @@
 </tr>
 <tr>
 <th> Headings Status	</th>
-<td> No Heading found. Suggested-Ministry of Coal</td>
+<td> No Heading found. Suggested-Ministry of water resource</td>
 <h1>Ministry of Coal</h1>
 <br>
 </tr>
