@@ -11,7 +11,7 @@
 <tr>
 <th> Headings Status	</th>
 <td> No Heading found. Suggested-Ministry of water resource</td>
-<h1>Ministry of Coal</h1>
+<h1>Ministry of water resopurce</h1>
 <br>
 </tr>
 <tr>
@@ -32,7 +32,6 @@
 </tr>
 <tr>
 <th> WWW redirection Test</th>
-<td> Your website does not directs www.coal.nic.in and coal.nic.in to the same URL.</td>
 <br>
 </tr>
 <tr>
