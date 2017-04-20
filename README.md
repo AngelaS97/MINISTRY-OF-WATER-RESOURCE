@@ -1,13 +1,13 @@
 # MINISTRY-OF-WATER-RESOURCE
 <html>
-<title>Ministry of water resource</title>
+
 <body>
 
 <font size=5>
 <table border=5 > 
 <tr><th> FAULT <th>DESCRIPTION<th>SUGGESTION</tr>
 <tr>
-<tr>
+
 <th> meta description</th>
 <td>The meta description is a ~160 character snippet, a tag in HTML, that summarizes a page's content. Search engines show the meta description in search results mostly when the searched for phrase is contained in the description. Optimizing the meta description is a very important aspect of on-page SEO. <td>
 <td>The meta description for this website should be only upto 160 characters.</td>
