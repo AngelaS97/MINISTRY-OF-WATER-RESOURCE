@@ -2,9 +2,9 @@
 <html>
 <title>Ministry of water resource</title>
 <body>
-<body bgcolor="ff0000">
+
 <font size=5 color="#ffff00">
-<table border=5>
+<table border=5 bgcolor="blue"> 
 <tr><th> FAULT <th>DESCRIPTION<th>SUGGESTION</tr>
 <tr>
 <tr>
@@ -34,7 +34,7 @@
 <th>Page Authority	</th>
 <td>It is good to have domain authority more than 20.</td><br>
 </tr>
-<tr><td colspan=3>Row 2 Coumn1-3</td>
+<tr>
 <th> WWW redirection Test</th>
 <br>
 </tr>
